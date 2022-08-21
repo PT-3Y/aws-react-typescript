@@ -27,8 +27,8 @@ The Amplify Console will fork this repo in your GitHub account, and then build a
 1. Fork the repo in your account and then clone it as below.
 
 ```
-git clone https://github.com/<username>/create-react-app-amplify-auth-typescript.git
-cd create-react-app-amplify-auth-typescript
+git clone https://github.com/devsmith-pro/aws-react-typescript.git
+cd aws-react-typescript
 yarn install
 ```
 
